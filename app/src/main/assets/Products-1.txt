@@ -1,0 +1,7 @@
+1001,keyboard,100,10.99
+1002,Monitor 49 inch,20,399.99
+1003,Monitor 32 inch,10,299.99
+1004,Monitor 27 inch,10,199.99
+1005,mouse,70,15.99
+1006,mousePad,90,5.99
+1007,HDMICable,25,10.99
